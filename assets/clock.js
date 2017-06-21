@@ -1,6 +1,6 @@
-/**
- * Created by Shaarang on 15-03-2017.
- */
+/*
+Clock.js 
+*/
 var tday=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
 var tmonth=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
 
